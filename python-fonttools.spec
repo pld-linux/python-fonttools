@@ -7,7 +7,7 @@ Summary:	Python 2 tools to manipulate font files
 Summary(pl.UTF-8):	Narzędzia do manipulacji na plikach fontów dla Pythona 2
 Name:		python-fonttools
 Version:	3.44.0
-Release:	8
+Release:	9
 # basic license is BSD
 # FontTools includes Adobe AGL & AGLFN, which is under 3-clauses BSD license
 License:	MIT, BSD
